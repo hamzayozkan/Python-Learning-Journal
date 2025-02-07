@@ -1,0 +1,1 @@
+What I have learned so far in Python has mostly been syntax-related. Due to my previous coding classes in C++, I already knew the logic behind the code for most things. This made it so all I learned was the new syntax during my previous Python class.
